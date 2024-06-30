@@ -34,5 +34,6 @@ Our lab assignments predominantly deal with the CIFAR dataset and MobileNet opti
 3. Compressing and pruning DEIT.
 4. Implementing kernel FlashAttention for speed-up.
 5. Utilizing four Raspberry Pi devices for PyTorch model parallelism with Triton and PiPy.
+![image](https://github.com/bob020416/Edge-AI-NYCU-CSIC30166-/assets/82202284/deb83f8e-a357-47b0-9a38-b4a1662d186e)
 
 Each lab assignment received scores between 90 and 100.
