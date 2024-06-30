@@ -1,6 +1,7 @@
 # Edge-AI-NYCU-CSIC30166-
 Edge AI 邊緣人工智慧 [NYCU CSIC30166]
 
+![image](https://github.com/bob020416/Edge-AI-NYCU-CSIC30166-/assets/82202284/e5da0325-13ed-42c5-82e3-43eaeb7ae72b)
 
 ## Course Description and Goals
 
