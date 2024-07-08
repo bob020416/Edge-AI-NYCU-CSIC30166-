@@ -24,6 +24,7 @@ This course explores a series of technologies aimed at realizing Edge AI. Below 
 - **Lab 4**: Running Vision Transformer at the edge
 - **Lab 5**: Quantizing Vision Transformer
 - **Lab 6**: Optimizing Lab 5 with FlashAttention
+- https://hackmd.io/@8TSzQWhUS7Kq14tHMXaRWA/Bk4Gr83SA
 - **Lab 7**: Running Vision Transformer on a cluster of multiple edge devices
 - **Lab 8**: Training (fine-tuning) Vision Transformer at the edge
 
